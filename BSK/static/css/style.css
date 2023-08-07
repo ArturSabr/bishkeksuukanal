@@ -281,7 +281,7 @@
 }
 
 .bg-offer {
-    background: url(../img/offer.jpg) top right no-repeat;
+    background: url(../img/water.jpg) top right no-repeat;
     background-size: cover;
 }
 
@@ -386,7 +386,7 @@
 }
 
 .bg-testimonial {
-    background: url(../img/testimonial.jpg) top left no-repeat;
+    background: url(../img/deal.jpg) top left no-repeat;
     background-size: cover;
 }
 
@@ -421,8 +421,8 @@
 }
 
 .testimonial-carousel .owl-item img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 120px;
 }
 
 @media (min-width: 576px) {
